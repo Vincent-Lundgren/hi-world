@@ -29,6 +29,6 @@ public class HiWorld {
 	}
 
 	private static void emitMessage (String message) {
-	  System.out.printf(message); 
+	  System.out.println(message); 
 	}
 }
